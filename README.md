@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AlannaFey
-- 👀 I’m a Computer Science student at the University of Central Florida
-- 🌱 I’m currently learning competitive programming techniques
-- 📫 You can email me at: afhill@knights.ucf.edu
+Hi, I’m AlannaFey
+I’m a Computer Science student at the University of Central Florida
 
 <!---
 AlannaFey/AlannaFey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
