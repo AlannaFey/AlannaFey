@@ -1,4 +1,4 @@
-Hi, I’m AlannaFey
+Hi, I’m Alanna
 I’m a Computer Science student at the University of Central Florida
 
 <!---
